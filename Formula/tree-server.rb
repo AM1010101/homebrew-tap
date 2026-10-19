@@ -3,8 +3,8 @@ class TreeServer < Formula
   homepage "https://github.com/AM1010101/file-app-releases"
   # Prebuilt, platform-independent runtime: server, built assets and locked
   # production dependencies. Homebrew supplies Node.
-  url "https://github.com/AM1010101/file-app-releases/releases/download/v0.1.0/tree-server-0.1.0-runtime.tar.gz"
-  sha256 "434c875aceea48ce0b0e3098e367cefd1a4c4a60932c0078aafe4983689b7e36"
+  url "https://github.com/AM1010101/file-app-releases/releases/download/v0.2.0/tree-server-0.2.0-runtime.tar.gz"
+  sha256 "b87a97ad3151429f825d1e887c79244f2e93c98ac7853e7c25b1e603f1724957"
   license "PolyForm-Small-Business-1.0.0"
 
   head do
