@@ -1,6 +1,6 @@
 cask "file-app" do
-  version "0.1.0"
-  sha256 "07e84772af40a80cd1d12b71f8c8ee9db093219d48e620a065e5d5cff65069c8"
+  version "0.2.0"
+  sha256 "d4c3013980acfc025ac8582512f2227a1d950738e098553843604a117c0a1764"
 
   url "https://github.com/AM1010101/file-app-releases/releases/download/v#{version}/file-app-#{version}-macos-arm64.zip"
   name "File App"
